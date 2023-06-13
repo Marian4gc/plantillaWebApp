@@ -1,1 +1,1 @@
-# plantilla Web App de acogida y adopción de gatos
+# plantilla Web App de acogida y adopción de gatos para asociación
